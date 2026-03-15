@@ -1,4 +1,4 @@
-<div align="centre"><img src="./github-header.png" /></div>
+<div align="centre"><img src="../github-header.png" /></div>
 
 
 # Kognitiam ☕🧠
